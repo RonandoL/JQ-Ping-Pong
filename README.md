@@ -4,7 +4,9 @@
 
 ## Description
 
-_Webpage has user enter in a positive number, returns count from 0 to that number, replacing multiples of 3 with "ping" and multiples of 5 with "pong" and multiples of 3x5 with "ping-pong", displays in browser._
+_Webpage has user enter in a positive number, returns count from 0 to that number, replacing multiples of 3 with "ping" and multiples of 5 with "pong" and multiples of 3x5 with "ping-pong", displays in browser.
+
+However, though it is scalable to easily handle changes in the numbers tested against (dev can easily replace 3 & 5 with any other number of choosing) as are the ouput strings (ping and pong can be easily changed by dev) alas, I am unable to handle negative entries at this point._
 
 ## Setup
 
